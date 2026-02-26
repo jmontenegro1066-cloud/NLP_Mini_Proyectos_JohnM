@@ -17,4 +17,4 @@ Este repositorio contiene el desarrollo de la primera actividad práctica, donde
 * **Sentimientos:** Se observó que el modelo VADER tiene limitaciones con el vocabulario neutro en español, lo que se analizó mediante una Matriz de Confusión.
 
 ## 👤 Autor
-* **JHON MONTENEGRO** - Estudiante de la Universidad Icesi.
+* **JHON MONTENEGRO** - Estudiante de la Universidad ICESI.
